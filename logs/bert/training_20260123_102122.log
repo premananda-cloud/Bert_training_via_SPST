@@ -1,4 +1,0 @@
-2026-01-23 10:21:22,275 - __main__ - INFO - Starting BERT training for fake news detection
-2026-01-23 10:21:22,275 - __main__ - INFO - Configuration: {'model_name': 'bert-base-uncased', 'model_type': 'bert', 'max_length': 512, 'batch_size': 16, 'learning_rate': 2e-05, 'epochs': 3, 'warmup_steps': 500, 'weight_decay': 0.01, 'gradient_accumulation_steps': 1, 'save_dir': PosixPath('/home/premananda/Documents/fake_news_detector/train/trained_models/bert'), 'log_dir': PosixPath('/home/premananda/Documents/fake_news_detector/train/logs/bert'), 'num_labels': 2, 'dropout': 0.1}
-2026-01-23 10:21:25,874 - __main__ - INFO - Using device: cpu
-2026-01-23 10:21:25,874 - __main__ - INFO - Loading data...

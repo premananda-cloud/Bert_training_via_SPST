@@ -1,4 +1,0 @@
-#liar schema 
-id     : string
-text   : string
-label  : int   (0 = false, 1 = true)
