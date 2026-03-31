@@ -1,0 +1,8 @@
+#Virtual Environ ments
+venv/
+.venv/
+
+#Dtasets
+datasets/
+dtasets.zip
+*.zip
