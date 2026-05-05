@@ -149,6 +149,6 @@ tqdm
 
 | Resource | Link |
 |----------|------|
-| Colab Notebook | https://colab.research.google.com/drive/1qdwF6kxTwKsSB89Nh0ymQhrRtcjVdPoI |
+| Colab Notebook | https://drive.google.com/file/d/1YQTo6j7X93VOL0auUIe9Vd5Yt1ItWTfa/view?usp=sharing |
 | Dataset ZIP | https://drive.google.com/file/d/1BfIvNcVJQIx8-KAqWFavy-htKcjTbMTb/view?usp=sharing |
 | Model Weights & Results | https://drive.google.com/drive/folders/1zAD6Q5RxQ-YGfiV455_DpG3_Wd2sgLkW?usp=sharing |
